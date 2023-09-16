@@ -1,4 +1,6 @@
 # DSD
 
-// This is an assignment provided to us by Prof.Chintan.S.Patel.
-// It is written in Verilog HDL and simulations are also provided with the code :)
+// This is a Git Repository for Assignments of DSD
+Name:Rohit Dilip Baruah
+Id no:21EL015
+Course:Digital System Design
